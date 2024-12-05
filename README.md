@@ -134,7 +134,7 @@ a whirl?
     ```
 2. Clone the Seed of Andromeda repositories
 ```cmd
-git clone --recurse-submodules https://github.com/YOUR_GITHUB_NAME/SoACode-Public.git soa
+git clone --recurse-submodules https://github.com/RegrowthStudios/SoACode-Public.git soa
 ```
 3. Change to soa direcotory
     * Windows
